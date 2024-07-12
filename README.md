@@ -1,0 +1,2 @@
+# Data-Analysis-of-SuperStore-E-Commerce
+I analyzed the SuperStore dataset using Python libraries like Pandas, NumPy, Seaborn &amp; Matplotlib. This project helped me uncover key insights into sales trends, customer behavior, &amp; product performance through engaging visualizations &amp; data-driven analysis. I picked up his database from Kagal, if anyone need it, he can go and pick it up from there
